@@ -5,6 +5,10 @@ class Detention
     @students = []
   end
 
+def activity
+  @activity
+end 
+
   def students
     @students
   end
