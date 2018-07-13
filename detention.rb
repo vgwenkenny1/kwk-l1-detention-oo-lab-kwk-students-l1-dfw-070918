@@ -1,7 +1,7 @@
 class Detention
 
   def initialize
-    @test.activity = "collective punishment"
+    @activity = "collective punishment"
     @students = []
   end
 
