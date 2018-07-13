@@ -40,3 +40,4 @@ class Detention
   def grumpy_teacher
     @grumpy_teacher
   end
+end 
